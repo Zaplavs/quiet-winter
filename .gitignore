@@ -15,6 +15,7 @@ __pycache__/
 # Video tooling and caches; finished safe media lives in docs/media
 /media-project/assets/
 /media-project/.hyperframes/
+/media-project/.thumbnails/
 /media-project/snapshots/
 /media-project/node_modules/
 /media-project/output.mp4
